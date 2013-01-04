@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">TestEngine</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello world, if you see this, so it's update!</string>
     <string name="menu_settings">Settings</string>
 
 </resources>
